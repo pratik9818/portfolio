@@ -16,34 +16,33 @@ function Project() {
          <div className="project-box">
            <div className="project-box-1">
            <div className="project-sub-box">
-             <img src={p1}   alt="/" />
+             <img src="https://miro.medium.com/max/1400/1*fe70E18B5HAVfYjGSemuvA.png"  alt="/" />
             <div className="project-name">
-              <div><a href="">news website</a></div>
+              <div><a href="https://pratik9818.github.io/dalily-news/" target="_blank">DAILY-NEWS</a></div>
               
             </div>
              </div>
              
            <div className="project-sub-box">
-             <img src={p3}   alt="/" />
+             <img src="https://themewagon.com/wp-content/uploads/2021/10/feane-1.png"  alt="/" />
              <div className="project-name">
-             <div><a href="">food website</a></div>
-             
+             <div><a href="https://pratik9818.github.io/Buger-king" target="_blank">BURGER KING</a></div>
             </div>
            </div>
           
            </div>
            <div className="project-box-1">
            <div className="project-sub-box">
-             <img src={p2}   alt="/" />
+             <img src="https://webdamn.com/wp-content/uploads/2019/11/build-weather-website-with-php-min.png"   alt="/" />
               <div className="project-name">
-              <div><a href="">flipkart clone</a></div>
+              <div><a href="" target="_blank">WEATHER</a></div>
             
             </div>
            </div>
            <div className="project-sub-box">
-             <img src={p4}   alt="/" />
+             <img src="https://cdn.dribbble.com/users/1916370/screenshots/15488577/media/b9b34c5aed906d974bf9fdb15dc57b6a.png?compress=1&resize=400x300"   alt="/" />
               <div className="project-name">
-              <div><a href="">portfolio website</a></div>
+              <div><a href="https://pratik9818.github.io/portfolio/" target="_blank">PORTFOLIO WEBSITE</a></div>
             
             </div>
            </div>
