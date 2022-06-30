@@ -1,0 +1,23 @@
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(49, 49, 49);
+    padding: 40px;
+    font-family:cursive;
+   min-height: 200px;
+   max-width: 100%;
+}
+.footer-heading{
+    color: wheat;
+   
+  
+}
+
+.social-media a{
+   padding: 10px;
+   color: wheat;
+   text-decoration: none;
+   
+}
+
