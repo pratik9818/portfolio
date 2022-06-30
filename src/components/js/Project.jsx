@@ -1,9 +1,5 @@
 
 import '../css/Project.css'
-import p1 from "../img/p1.jpg"
-import p2 from "../img/p2.png"
-import p3 from "../img/p3.jpg"
-import p4 from "../img/p4.jpg"
 function Project() {
   return (
     
